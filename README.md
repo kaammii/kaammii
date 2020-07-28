@@ -1,4 +1,4 @@
-# Hi, I'm Kamran 👋🏾 👩🏾‍💻
+# Hi, I'm Kamran 👋 👨‍💻
 
 I'm a software engineer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, React Native, Nextjs, Redux, Nodejs, Python, Golang and AWS Amplify.
 
