@@ -1,6 +1,6 @@
 # Hi, I'm Kamran 👋 👨‍💻
 
-I'm a software engineer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, React Native, Nextjs, Redux, Nodejs, Python, Golang and AWS Amplify.
+I'm a software engineer who is passionate about creating technology to elevate people, I Specialize in cloud-enabled and cross-platform application development. Some technologies I enjoy working with include ReactJS, React Native, Nextjs, Redux, Nodejs, Python, Golang and AWS Amplify.
 
 :tada: Skills :tada: :
 
