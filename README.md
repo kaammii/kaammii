@@ -8,6 +8,6 @@ I'm a software engineer who is passionate about creating technology to elevate p
 - :snake:  Nodejs (Express), Python, GoLang (level: beginner)
 - :police_car:  Polymer, Web technologies (HTML5, CSS3, ES7+, a11y), D3js, Custom Elements v1
 - :boom:  Typescript, Flow, Prettier
-- :cocktail:  Postgres, MySQL, MongoDB (Mongoose) and SQlite
+- :cocktail:  Postgres, MySQL, MongoDB (Mongoose), SQlite and Dynamodb
 - :battery:  AWS Amplify Console, AWS CodePipeline, AWS CodeCommit
 - :cloud:  AWS, AWS Amplify, AWS Lambda functions
